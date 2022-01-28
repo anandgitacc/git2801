@@ -18,6 +18,11 @@ public class TestOne {
 	private void empId() {
 		System.out.println("Employee id is : 6546");
 	}
+	
+	private void empLocation() {
+		
+		System.out.println("Banglore");
+	}
 
 	public static void main(String[] args) {
 
