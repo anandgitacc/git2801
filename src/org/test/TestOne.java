@@ -1,8 +1,7 @@
 package org.test;
 
-
 public class TestOne {
-	
+
 	private void empName() {
 
 		System.out.println("Employee name is : Anand");
@@ -18,11 +17,19 @@ public class TestOne {
 	private void empId() {
 		System.out.println("Employee id is : 6546");
 	}
-	
+
 	private void empLocation() {
-		
+
 		System.out.println("Banglore");
 	}
+
+	private void empAdd() {
+
+		System.out.println("Omr, Chennai");
+	}
+	// <<<<<<< HEAD
+	// =======
+	// >>>>>>> 0d2e7d30c157ae17c1e99b7e5bf5876eaa502cea
 
 	public static void main(String[] args) {
 
